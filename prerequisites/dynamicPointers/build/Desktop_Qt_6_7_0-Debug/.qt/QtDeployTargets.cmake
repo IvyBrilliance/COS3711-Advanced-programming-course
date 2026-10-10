@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_dynamicPointers_FILE /home/sambankmanfried/Documents/projects/qt-cheatsheet/cos3711/pointers/dynamicPointers/build/Desktop_Qt_6_7_0-Debug/dynamicPointers)

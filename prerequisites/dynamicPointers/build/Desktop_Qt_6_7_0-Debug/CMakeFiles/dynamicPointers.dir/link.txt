@@ -1,1 +1,0 @@
-/usr/bin/g++-11 -DQT_QML_DEBUG -g CMakeFiles/dynamicPointers.dir/dynamicPointers_autogen/mocs_compilation.cpp.o CMakeFiles/dynamicPointers.dir/main.cpp.o -o dynamicPointers  -Wl,-rpath,/home/sambankmanfried/Qt/6.7.0/gcc_64/lib: /home/sambankmanfried/Qt/6.7.0/gcc_64/lib/libQt6Core.so.6.7.0 

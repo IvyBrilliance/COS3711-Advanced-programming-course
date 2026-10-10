@@ -1,8 +1,0 @@
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/BasicPointers.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
-/home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/BasicPointers_autogen.dir

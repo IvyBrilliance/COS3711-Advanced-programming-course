@@ -1,7 +1,72 @@
-# C++ objects and libs
-*.slo
-*.lo
+# ============================================
+# BUILD DIRECTORIES (the main culprit)
+# ============================================
+build/
+build-*/
+*/build/
+*/build-*/
+**/build/
+**/build-*/
+
+# Explicit Qt Creator build folder pattern
+build*Desktop*
+build*Debug*
+build*Release*
+
+# ============================================
+# CMake generated files
+# ============================================
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# ============================================
+# Qt auto-generated
+# ============================================
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.moc
+.qmake.cache
+.qmake.stash
+.qmake.stash.*
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.qmlc
+*.jsc
+*.qm
+*.prl
+
+# Qt Creator
+*.autosave
+*creator.user*
+*.qmlproject.user
+*.qmlproject.user.*
+
+# Qt build artifacts
+object_script.*.Release
+object_script.*.Debug
+*_plugin_import.cpp
+target_wrapper.*
+*_qmlcache.qrc
+
+# ============================================
+# Compiled object files / libraries
+# ============================================
 *.o
+*.obj
+*.lo
+*.slo
 *.a
 *.la
 *.lai
@@ -9,46 +74,27 @@
 *.so.*
 *.dll
 *.dylib
+*.exe
+*.out
 
-# Qt-es
-object_script.*.Release
-object_script.*.Debug
-*_plugin_import.cpp
-/.qmake.cache
-/.qmake.stash
-*.pro.user
-*.pro.user.*
-*.qbs.user
-*.qbs.user.*
-*.moc
-moc_*.cpp
-moc_*.h
-qrc_*.cpp
-ui_*.h
-*.qmlc
-*.jsc
-Makefile*
-*build-*
-*.qm
-*.prl
+# ============================================
+# Testing / coverage
+# ============================================
+Testing/
+*/Testing/
 
-# Qt unit tests
-target_wrapper.*
+# ============================================
+# IDE / Editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
 
-# QtCreator
-*.autosave
-
-# QtCreator Qml
-*.qmlproject.user
-*.qmlproject.user.*
-
-# QtCreator CMake
-CMakeLists.txt.user*
-
-# QtCreator 4.8< compilation database
-compile_commands.json
-
-# QtCreator local machine specific files for imported projects
-*creator.user*
-
-*_qmlcache.qrc\Makefile
+# ============================================
+# Local env
+# ============================================
+.env
+*.log

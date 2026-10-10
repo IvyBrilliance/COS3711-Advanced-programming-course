@@ -1,0 +1,1 @@
+/usr/bin/g++-11 -DQT_QML_DEBUG -g CMakeFiles/BasicPointers.dir/BasicPointers_autogen/mocs_compilation.cpp.o CMakeFiles/BasicPointers.dir/main.cpp.o -o BasicPointers  -Wl,-rpath,/home/sambankmanfried/Qt/6.7.0/gcc_64/lib: /home/sambankmanfried/Qt/6.7.0/gcc_64/lib/libQt6Core.so.6.7.0 

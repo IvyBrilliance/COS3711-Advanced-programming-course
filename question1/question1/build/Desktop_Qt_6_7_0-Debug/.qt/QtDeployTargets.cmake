@@ -1,1 +1,0 @@
-set(__QT_DEPLOY_TARGET_cos3711q1_FILE /home/julianalvarez/Documents/qtProjects/cos3711q1/build/Desktop_Qt_6_7_0-Debug/cos3711q1)

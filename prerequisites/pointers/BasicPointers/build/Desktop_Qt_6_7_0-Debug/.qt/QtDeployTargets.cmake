@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_BasicPointers_FILE /home/sambankmanfried/Documents/projects/Advanced-Programming-Cpp/prerequisites/pointers/BasicPointers/build/Desktop_Qt_6_7_0-Debug/BasicPointers)
